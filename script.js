@@ -7,7 +7,7 @@ const products = [
   { id: 4, name: "Witaminy dla sportowców", price: 49.99, image: "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlYzB-Q_Bo4zKz3yHZN2ll30S-e‑Zfk4eJfbfQr9cGow00RN‑F s_euHqfPWScNlHEMbzEoKPbcTBIUFUoWGI5SI12VYU‑PUk_4V1w4zyqQTxgjQCbC3QJrSMQdELDvR5NDfB3wog&usqp=CAc" },
   { id: 5, name: "BCAA 300 g", price: 79.99, image: "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCXCq79KXyavu6tcGV4b0Q9LlABNL5pSh‑PCIvTtOoGbyf1yZ9s‑9b6J_iTsydZNFSIB8kiJWbu6Ses_HZmrgAzAY5BFFLRcdEPb_dC4lKwSdrgKoqVS5_6w5ZQwFpTl_wcOsjQQ&usqp=CAc" },
   { id: 6, name: "Glutamina 500 g", price: 69.99, image: "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQmeUduq3mWCnp3CUnnRXSNE8‑LoUCt9KL6PJjQrRLN10NFr8j5Hi3xGEbzbNBwQwe0zOw8IRaS‑IETGFatw2Q1ipw8FjYvKR25obiPaHbSQacEouRFN9rOhoswZU24FP1JlVR‑8w&usqp=CAc" }
-];
+
 
 ];
 
